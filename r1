@@ -1,0 +1,4 @@
+#!/bin/bash -x
+
+random=$((RANDOM%100))
+echo $random
