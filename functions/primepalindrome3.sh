@@ -42,7 +42,7 @@ res="$(( check_prime ))"
         fi
         for ((i=2;i<$num;i++))
         do
-			d=$(( $num % $i ))
+		d=$(( $num % $i ))
                 if(( $d==0 ))
                 then
                         g=1

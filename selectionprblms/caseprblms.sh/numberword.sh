@@ -1,4 +1,4 @@
- #!/bin/bash -x
+#!/bin/bash -x
 
 read -p "Enter a nbr :: " num
 
@@ -23,4 +23,3 @@ case $num in
    ;;
 
 esac
-

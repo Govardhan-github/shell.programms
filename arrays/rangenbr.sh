@@ -1,11 +1,11 @@
 #!/bin/bash -x
-
+i=0
 for ((i=1;i<=100;i++))
 do
 	if (($(($i%11))==0))
 	then
-		a[$l]=$i
-		l=$((l))
+		a[$i]=$i
+		i=$((i+1))
 	fi
 done
 

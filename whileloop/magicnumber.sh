@@ -1,6 +1,6 @@
 #!/bin/bash  -x
 
-echo "assume a nbr between 1 to 100"
+echo "Assume a nbr between 1 to 100"
 choice=2
 fstnbr=1
 lastnbr=100

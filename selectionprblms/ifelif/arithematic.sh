@@ -18,7 +18,7 @@ then
 	echo $num3 is greater
 elif [ $num4 > $num1 ]
 then
-		echo $num4 is greater
+	echo $num4 is greater
 else
 	echo the number is min
 fi

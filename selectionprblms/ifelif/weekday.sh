@@ -1,4 +1,4 @@
-#!/bin/bash -x
+O#!/bin/bash -x
 
 read -p "Enter a nbr :: " num
 
