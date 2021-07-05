@@ -6,4 +6,4 @@ do
 	div=$(awk 'BEGIN {print '1' / '$i'}' )
 	sum=$(awk 'BEGIN {print '$sum' + '$div'}' )
 done
-echo "Hormoni value of $n number is $sum"
+echo "Hormonic value of $n number is $sum"
